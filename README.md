@@ -18,7 +18,7 @@
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
+## 🤝 Contributin
 
 Contributions, issue, and feature requests are welcome!
 
