@@ -8,7 +8,7 @@
 ## Built With
 
 - Html, css and js
-- webpack
+- webpac
 
 ## Authors
 
