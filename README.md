@@ -5,8 +5,7 @@
 > This is a simple to do lis
 
 
-## Built With
-
+## Built Wit
 - Html, css and js
 - webpac
 
