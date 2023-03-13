@@ -19,8 +19,7 @@
 
 ## 🤝 Contributi
 
-Contributions, issue, and feature requests are welcome!
-
+Contributions, issue, and feature requests are welcom
 Feel free to check the [issues page](../../issues/).
 
 ## Show your suppor
