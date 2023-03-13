@@ -6,7 +6,7 @@
 
 
 ## Built Wit
-- Html, css and j
+- Html, css and 
 - webpac
 
 ## Authors
