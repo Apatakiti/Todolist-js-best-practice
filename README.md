@@ -14,7 +14,7 @@ Updated Changes
 Updated Changes
 
 ## Built Wit
-- Html, css and 
+- Html, css a
 - webpac
 
 ## Authors
