@@ -24,7 +24,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your suppor
 
-Give a ⭐️ if you like this project
+Give a ⭐️ if you like this projec
 
 ## Acknowledgments
 
