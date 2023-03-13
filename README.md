@@ -19,7 +19,7 @@
 
 ## 🤝 Contributi
 
-Contributions, issue, and feature requests are welcom
+Contributions, issue, and feature requests are welco
 Feel free to check the [issues page](../../issues/).
 
 ## Show your suppor
