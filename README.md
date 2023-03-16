@@ -12,7 +12,7 @@ Updated Changes
 Updated Changes
 Updated Changes
 Updated Changes
-Updated C
+Updated
 
 ## Built Wit
 - Html, css 
